@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shARe", "shARe.csproj", "{FDB8C2FA-F753-2793-3E57-0CF1832BEF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shARe.Editor", "shARe.Editor.csproj", "{E87C1CB2-3F67-5F04-D606-4DF6CB58AA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB8C2FA-F753-2793-3E57-0CF1832BEF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB8C2FA-F753-2793-3E57-0CF1832BEF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB8C2FA-F753-2793-3E57-0CF1832BEF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB8C2FA-F753-2793-3E57-0CF1832BEF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87C1CB2-3F67-5F04-D606-4DF6CB58AA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87C1CB2-3F67-5F04-D606-4DF6CB58AA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87C1CB2-3F67-5F04-D606-4DF6CB58AA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87C1CB2-3F67-5F04-D606-4DF6CB58AA46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

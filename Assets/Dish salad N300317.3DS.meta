@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 181fb307845243941b48a3d726f7d8d2
+timeCreated: 1506187569
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: lyagan
+    100004: pomidor
+    100006: pomidor01
+    100008: salat01
+    100010: salat02
+    100012: salat03
+    100014: salat04
+    100016: salat05
+    100018: salat06
+    100020: samsa
+    100022: samsa01
+    100024: samsa02
+    100026: samsa03
+    100028: samsa04
+    100030: Shape05
+    100032: Shape06
+    100034: Shape2
+    400000: //RootNode
+    400002: lyagan
+    400004: pomidor
+    400006: pomidor01
+    400008: salat01
+    400010: salat02
+    400012: salat03
+    400014: salat04
+    400016: salat05
+    400018: salat06
+    400020: samsa
+    400022: samsa01
+    400024: samsa02
+    400026: samsa03
+    400028: samsa04
+    400030: Shape05
+    400032: Shape06
+    400034: Shape2
+    2300000: lyagan
+    2300002: pomidor
+    2300004: pomidor01
+    2300006: salat01
+    2300008: salat02
+    2300010: salat03
+    2300012: salat04
+    2300014: salat05
+    2300016: salat06
+    2300018: samsa
+    2300020: samsa01
+    2300022: samsa02
+    2300024: samsa03
+    2300026: samsa04
+    2300028: Shape05
+    2300030: Shape06
+    2300032: Shape2
+    3300000: lyagan
+    3300002: pomidor
+    3300004: pomidor01
+    3300006: salat01
+    3300008: salat02
+    3300010: salat03
+    3300012: salat04
+    3300014: salat05
+    3300016: salat06
+    3300018: samsa
+    3300020: samsa01
+    3300022: samsa02
+    3300024: samsa03
+    3300026: samsa04
+    3300028: Shape05
+    3300030: Shape06
+    3300032: Shape2
+    4300000: samsa
+    4300002: samsa01
+    4300004: samsa02
+    4300006: samsa03
+    4300008: samsa04
+    4300010: lyagan
+    4300012: salat01
+    4300014: salat02
+    4300016: salat03
+    4300018: salat04
+    4300020: salat05
+    4300022: salat06
+    4300024: Shape2
+    4300026: pomidor
+    4300028: Shape05
+    4300030: Shape06
+    4300032: pomidor01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
