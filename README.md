@@ -28,3 +28,25 @@ whenever a person enters a restaurant, he might hesitate to order new dishes bec
 <p align="center">
   <img src="https://github.com/deafeningSilence/shARe/blob/master/screenshots/terminal.png">
 </p>
+
+## Built With
+
+* Front-End
+  * C#
+  * [Unity3D](https://unity3d.com/)
+  * [Vuforia](https://www.vuforia.com/) 
+  * [Visual studio](https://www.visualstudio.com/)
+
+* Back-End
+  * [Python](https://www.python.org/) 
+  * [Flask](http://flask.pocoo.org/) 
+  
+## Team Members
+
+* [Abhijeeth Padarthi](https://github.com/rkinabhi)
+* [Aravind Subramaniam](https://github.com/aravind098)
+* [Harry Roshan](https://github.com/harryroshan)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
