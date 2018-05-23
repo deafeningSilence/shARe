@@ -12,14 +12,19 @@ whenever a person enters a restaurant, he might hesitate to order new dishes bec
 
 ## Application screenshots
 
+### Items on the menu displayed at the table
+
+#### Cake
 <p align="center">
   <img src="https://github.com/deafeningSilence/shARe/blob/master/screenshots/cake%20item.png">
 </p>
 
+#### sushi
 <p align="center">
   <img src="https://github.com/deafeningSilence/shARe/blob/master/screenshots/sushi.png">
 </p>
 
+### output at the restaurant's terminal
 <p align="center">
   <img src="https://github.com/deafeningSilence/shARe/blob/master/screenshots/terminal.png">
 </p>
